@@ -1,1 +1,1 @@
-const new = "hello world";
+const one = "hello world";
